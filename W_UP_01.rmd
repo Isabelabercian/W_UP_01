@@ -78,3 +78,5 @@ The probability of getting a result like this, in highschool terms, is .00000942
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+First, we copied the right command from the helper file. We made small changes to the command so it could fit our data. We made a boxplot. Then, we gathered the numerical descriptive results, adjusting the agreements again. Finally,we ran a t-test using another command from the helper file and changed it to fit our data again.  For this, we changed the scientific notation value to a decimal value, like in high school
+
